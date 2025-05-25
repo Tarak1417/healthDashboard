@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Zoom container and image */
+.zoom-img {
+  cursor: zoom-in;
+}
+
+.zoom-img-zoomed {
+  cursor: zoom-out;
+}
